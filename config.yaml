@@ -2,12 +2,12 @@
         
 # Groq API Configuration
 groq:
-  api_key: 
+  api_key: "YOUR GROQ API KEY HERE"
 
 # Stable Diffusion API Configuration
 stable_diffusion:
   api_url: "https://api.stability.ai/v2beta/stable-image/generate/sd3"
-  api_key: 
+  api_key: "YOUR STABILITY AI API KEY HERE"
 
 # General Settings
 general:
