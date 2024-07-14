@@ -2,12 +2,12 @@
         
 # Groq API Configuration
 groq:
-  api_key: "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"
+  api_key: 
 
 # Stable Diffusion API Configuration
 stable_diffusion:
   api_url: "https://api.stability.ai/v2beta/stable-image/generate/sd3"
-  api_key: "sk-SCLihm3u3BsE6b6cVV6BmzTK9yIjRT9CGLjL827J6wwfe5PE"
+  api_key: 
 
 # General Settings
 general:
